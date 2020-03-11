@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Tutorials\\GlobalWeather\\GlobalWeather.csproj",
+      "projectUniqueName": "C:\\Dev\\Tutorials\\GlobalWeather\\GlobalWeather\\GlobalWeather.csproj",
       "projectName": "GlobalWeather",
-      "projectPath": "C:\\Dev\\Tutorials\\GlobalWeather\\GlobalWeather.csproj",
+      "projectPath": "C:\\Dev\\Tutorials\\GlobalWeather\\GlobalWeather\\GlobalWeather.csproj",
       "packagesPath": "C:\\Users\\kamor\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Tutorials\\GlobalWeather\\obj\\",
+      "outputPath": "C:\\Dev\\Tutorials\\GlobalWeather\\GlobalWeather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
